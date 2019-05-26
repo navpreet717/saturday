@@ -10,7 +10,7 @@ public class Money {
 				System.out.println("How many days you will work?");
 				int days=keyboard.nextInt();
 				
-				
+///nav
 		double total=0;
 				//calculate some dollars
 				
